@@ -32,5 +32,5 @@ var server=http.createServer()
  
  //注册端口
  server.listen(3000,function(){
-	 console.log('Server is running...')
+	 console.log('Server is running....')
  })
